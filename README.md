@@ -1,5 +1,5 @@
 # Projeto-Teste-5-operacoes
-Teste
+
 #include <iostream>
 using namespace std;
 
